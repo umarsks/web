@@ -31,7 +31,7 @@ img
 {
     background-color: aqua;
     display: grid;
-    grid-template-colucmns: 20% 20% 20%;
+    grid-template-columns: 30% 30% 30%;
     align-items: center;
     text-align: center;
     justify-content: space-evenly;
